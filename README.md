@@ -1,0 +1,1 @@
+Creating a Whitelist Smart Contract to provide early supporters of the NFT project early bird access
